@@ -1,0 +1,19 @@
+body {
+  background: black;
+}
+
+.App {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1400px;
+}
+
+.btn {
+  padding: 10px 15px;
+  border-radius: 10px;
+  background: gold;
+  display: block;
+  margin: 0 auto;
+}
+
+

@@ -1,0 +1,27 @@
+.char-item {
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    box-shadow: 0 0 10px 5px rgba(255, 215, 0, .7);
+    width: calc(100% / 5);
+    text-align: center;
+}
+
+.char-text {
+    color: gold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.char-comment-area {
+    display: block;
+    margin: 0 auto 10px auto;
+    font-size: 17px;
+    color: gold;
+    background: transparent;
+    border: 1px solid gold;
+    width:100%;
+    box-sizing:border-box;
+    max-width:100%;
+    line-height:1.5;
+}
